@@ -1,14 +1,14 @@
-# ShafiqLabs
+# Shafiq Hub
 
 **Technology that makes everyday life easier.**
 
-ShafiqLabs is an independent technology and development initiative focused on turning useful ideas into practical digital experiences. We believe technology should serve people—not add complexity for its own sake. The best tools are thoughtful, accessible, and simple to use, helping make everyday tasks easier and giving people more time to focus on what matters.
+Shafiq Hub is an independent technology and development initiative focused on turning useful ideas into practical digital experiences. We believe technology should serve people—not add complexity for its own sake. The best tools are thoughtful, accessible, and simple to use, helping make everyday tasks easier and giving people more time to focus on what matters.
 
 > From complexity to clarity.
 
 ## Our philosophy
 
-Technology is most valuable when it solves a real problem. At ShafiqLabs, the starting point is always a simple question: *How can this be made more useful for people?*
+Technology is most valuable when it solves a real problem. At Shafiq Hub, the starting point is always a simple question: *How can this be made more useful for people?*
 
 We explore everyday challenges, understand what makes them difficult, and build or refine digital solutions that make the experience clearer and easier. Our goal is not to use technology just because it is available, but to make its useful parts work better for people.
 
@@ -27,13 +27,13 @@ We explore everyday challenges, understand what makes them difficult, and build 
 
 ## The website
 
-This repository contains the ShafiqLabs public website. It is built with standard web technologies and is designed to be lightweight, responsive, and easy to host.
+This repository contains the Shafiq Hub public website. It is built with standard web technologies and is designed to be lightweight, responsive, and easy to host.
 
 - Multi-page layout with dedicated Home, Products, Blogs, About, Contact, Team, and Owner pages.
 - Article archive with live search and a sample article page.
 - Lab Notes area for experiments and development updates.
 - Responsive layouts for desktop and mobile screens.
-- Custom ShafiqLabs branding, illustrations, and typography.
+- Custom Shafiq Hub branding, illustrations, and typography.
 - Static-site architecture with no application build process or database requirement.
 
 ## Built with
@@ -59,9 +59,9 @@ Then open [http://localhost:8000](http://localhost:8000).
 
 The website can be hosted on any static hosting platform, such as GitHub Pages, Netlify, Cloudflare Pages, or conventional web hosting. Upload the website files while preserving their relative directory structure.
 
-## The people behind ShafiqLabs
+## The people behind Shafiq Hub
 
-ShafiqLabs is founded by **Shafiq Malik**, with contributions from **Mohd Raqib Malik**. Together, the work is guided by a shared belief that useful technology should be approachable and should make a meaningful difference in everyday life.
+Shafiq Hub is founded by **Shafiq Malik**, with contributions from **Mohd Raqib Malik**. Together, the work is guided by a shared belief that useful technology should be approachable and should make a meaningful difference in everyday life.
 
 ## Connect
 
@@ -70,4 +70,4 @@ ShafiqLabs is founded by **Shafiq Malik**, with contributions from **Mohd Raqib 
 
 ---
 
-*ShafiqLabs — Making technology more useful, one everyday problem at a time.*
+*Shafiq Hub — Making technology more useful, one everyday problem at a time.*
